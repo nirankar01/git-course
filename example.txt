@@ -18,4 +18,10 @@ for tracking all file using git
 --->git add .
 for find which line is add or remove in file 
  --->git diff
+for remove the file from git or stop the tracking file using git
+ --->git rm <filePath>
+taking an snapshorts of code along with time
+ --->git commit -m <message>
+ for watching the history of git commit (like time ,day,date,author,email ,message,commit Id)
+   ---->git log
 
