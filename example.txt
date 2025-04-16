@@ -24,4 +24,12 @@ taking an snapshorts of code along with time
  --->git commit -m <message>
  for watching the history of git commit (like time ,day,date,author,email ,message,commit Id)
    ---->git log
+only watch the commit message
+   ---> git log --oneline
+show the particular line which is update 
+   --->git show <commit id>
+show all changes
+   --->git show
+show all details who changes code,time duration,commit id lineByline of code
+  --->git blame <filename>
 
