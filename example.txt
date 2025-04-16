@@ -32,4 +32,6 @@ show all changes
    --->git show
 show all details who changes code,time duration,commit id lineByline of code
   --->git blame <filename>
+show status of the project
+   --->git status
 
