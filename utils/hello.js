@@ -8,3 +8,7 @@ function is18(age){
 return age;
 }
 const name = 'golu'
+
+function addNewFeacture(){
+    return 10;
+}
