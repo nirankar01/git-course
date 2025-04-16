@@ -5,6 +5,6 @@ const name1 ="Nirankar"
 
 const age =19;
 function is18(age){
-    return age>18;
+return age;
 }
-is18(age);
+const name = 'golu'
