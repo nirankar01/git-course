@@ -6,3 +6,4 @@ const j=33;
 function  sayHelp(){
     console.log("hello")
 }
+const name = "nirankar branch is used"
