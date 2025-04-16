@@ -1,0 +1,21 @@
+FOR FINDING THE USERNAME
+  --->git config --global user.name
+FOR FINDING THE USEREMAIL
+  --->git config --global user.email
+
+SETUP THE USERNAME IN LOCAL MACHINE or project
+  --->git config --global user.name "Nirankar_Singh"
+SETUP THE USEREMAIL IN LOCAL MACHINE
+  --->git config --global user.name "nirankar12gmail.com"
+
+for tracking the particular project or folder git is must initialize
+  --->git init
+for watching the hidden folder in git
+ --->ls -la
+for tracking the particular file using git 
+ --->git add <filename>    (git add index.js)
+for tracking all file using git
+--->git add .
+for find which line is add or remove in file 
+ --->git diff
+
